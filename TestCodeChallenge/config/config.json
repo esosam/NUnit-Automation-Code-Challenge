@@ -1,0 +1,15 @@
+{
+  "HomePage": "https://www.microsoft.com/en-us/",
+  "HomePageMenuItems": [ "Office", "Windows", "Surface", "Xbox", "Deals", "Support" ],
+  "HomePageMenuClass": ".c-uhf-nav-link",
+  "WindowsPage": "https://www.microsoft.com/en-us/windows/",
+  "WindowsPageMenuId": "c-shellmenu_50",
+  "PageSearchButton": "search",
+  "PageSearchInput": "cli_shellHeaderSearchInput",
+  "SoftwareListItems": "3",
+  "SoftwareListItem": "1",
+  "Cart_AddButtonId": "buttonPanel_AddToCartButton",
+  "Cart_AddAmountOfItems" :  "20",
+  "TimeOutMiliSeconds": "5000"
+
+}
