@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeChallenge\\TestCodeChallenge\\TestCodeChallenge\\TestCodeChallenge.csproj": {}
+    "C:\\Users\\esteb\\source\\repos\\NUnit-Automation-Code-Challenge\\TestCodeChallenge\\TestCodeChallenge.csproj": {}
   },
   "projects": {
-    "C:\\CodeChallenge\\TestCodeChallenge\\TestCodeChallenge\\TestCodeChallenge.csproj": {
+    "C:\\Users\\esteb\\source\\repos\\NUnit-Automation-Code-Challenge\\TestCodeChallenge\\TestCodeChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeChallenge\\TestCodeChallenge\\TestCodeChallenge\\TestCodeChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\esteb\\source\\repos\\NUnit-Automation-Code-Challenge\\TestCodeChallenge\\TestCodeChallenge.csproj",
         "projectName": "TestCodeChallenge",
-        "projectPath": "C:\\CodeChallenge\\TestCodeChallenge\\TestCodeChallenge\\TestCodeChallenge.csproj",
+        "projectPath": "C:\\Users\\esteb\\source\\repos\\NUnit-Automation-Code-Challenge\\TestCodeChallenge\\TestCodeChallenge.csproj",
         "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeChallenge\\TestCodeChallenge\\TestCodeChallenge\\obj\\",
+        "outputPath": "C:\\Users\\esteb\\source\\repos\\NUnit-Automation-Code-Challenge\\TestCodeChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
