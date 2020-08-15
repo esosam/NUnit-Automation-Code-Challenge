@@ -10,7 +10,7 @@ Using POM and Page Factory
 NUnit
 Using a JSON configuration file
 Use Assertions
-Using base clases interfaces and abstract class
+Using base classes interfaces and abstract class
 
 NuGet pckgs:
 Selenium WebDriver
