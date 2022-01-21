@@ -39,6 +39,9 @@ Click Add To Cart
 Verify all 3 price amounts are the same
 On the # of items dropdown select 20 and validate the Total amount is Unit Price * 20
 
-Free to Modify it and Run it for Demos and Practice.
-#https://github.com/freakcorp/NUnit-Automation-Code-Challenge/
-#Author: Esteban Sosa
+
+Authors Esteban Sosa - esosa@edksis.com http://edksis.com/
+
+License this dotNet Project Test Assignment is free and unencumbered public domain software. For more information, see http://unlicense.org/ or the accompanying UNLICENSE file.
+
+I dedicate any and all copyright interest in this software to the public domain. I make this dedication for the benefit of the public at large and to the detriment of my heirs and successors. I intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law.
